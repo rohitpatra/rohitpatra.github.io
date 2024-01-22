@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to arupgainesville.pdf
+Type=Link
+URL=imap://rohitpatra@imap.ufl.edu:993/fetch%3EUID%3E/INBOX%3E8915?part=1.2&filename=arupgainesville.pdf
+Icon=text-html

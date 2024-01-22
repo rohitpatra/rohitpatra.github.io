@@ -1,0 +1,164 @@
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	  <link rel="stylesheet" href="css/acl.css" type="text/css" />
+	  <title>Rohit K Patra</title>
+	  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	  <base target="_parent">
+	</head>
+
+	<body>
+	<table width="1000px" align="center">
+	 <tbody>
+	  <tr valign="top">
+	  <td>
+	    <!--<div class="smallhdr">Under Construction</div>
+		<div class="researchhdr">
+			Title
+		</div>
+		<div class="researchsubhdr">
+			(Job Market Paper, August 2011)
+		</div>
+		<div class="txt">
+		 Abstract 150 words
+		</div>
+		<div class="txt">
+		 <a href="">Download</a>
+		</div>-->
+		<div class="smallhdr">Preprints</div>
+		
+		<P>
+		<div id="indentbox"><font face="verdana" font size="2"><B>Efficient Estimation in Smooth Single Index Models.</B> <BR>
+			
+			<em>Patra, R.</em> <font>
+			<!-- <BR>[<a href="PapersandDraft/Edit1Density_msc_submitted_copy.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/Edit1Density_msc_submitted_copy.pdf');">PDF</a>] -->
+				</div>
+			<P>
+					<P>
+		<div id="indentbox"><font face="verdana" font size="2"><B>On a Nonparametric Notion of Residual and its Applications.</B> <BR>
+			
+			<em>Patra, R.,</em> Sen, B., and Sz&eacute;kely, G. (2015). <font>
+			<!-- <BR>[<a href="PapersandDraft/Edit1Density_msc_submitted_copy.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/Edit1Density_msc_submitted_copy.pdf');">PDF</a>] -->
+				</div>
+			<P>
+	    <div class="smallhdr">Submitted</div>
+		
+
+					<P>
+		<div id="indentbox"><font face="verdana" font size="2"><B>A consistent bootstrap procedure for the maximum score estimator.</B> <BR>
+			
+			<em>Patra, R.,</em> Seijo, E., and Sen, B. (2015) (revision requested, Journal of Econometrics). <font>
+			<BR>[<a href="PapersandDraft/Edit1Density_msc_submitted_copy.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/Edit1Density_msc_submitted_copy.pdf');">PDF</a>]
+				</div>
+			<P>
+
+		<!--P>
+		<div class="researchhdr">
+		 Estimation of a Two-component Mixture Model with Applications to Multiple Testing
+		Rohit Kumar Patra
+		</div>
+		<div class="researchsubhdr">
+		 (joint with Michael C. Burda, Bernd Fitzenberger and Thorsten Vogel)
+		</div>
+		<div class="txt">
+		 <a href="http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2008-041.pdf">Download</a>
+		</div>
+		<div class="researchhdr">
+		 Union Wage Effects in Germany: Union Density or Collective Bargaining Coverage?
+		</div>
+		<div class="researchsubhdr">
+		 (joint with Bernd Fitzenberger and Karsten Kohn, revise and resubmit ILRR)
+		</div>
+		<div class="txt">
+		 <a href="http://cep.lse.ac.uk/_new/publications/abstract.asp?index=3647">Download</a>
+		</div>
+
+		
+		<div class="smallhdr">Work in Progress</div>
+		<div class="researchhdr">
+		 Productivity and Shirking. Incentivizing Young Workers.
+		</div>
+		<div class="researchsubhdr">
+		 (mimeo)
+		</div>
+		<div class="researchhdr">
+		 The Impact of Paid Holiday Entitlement on Employment. The UK Working Time Regulation 1998
+		</div>
+		<div class="researchsubhdr">
+		 (mimeo August 2011, available on request)
+		</div>
+		<div class="researchhdr">
+		 Title
+		</div>
+		<div class="researchsubhdr">
+		 (joint with Karsten Kohn)
+		</div-->
+
+		<div class="smallhdr">Published</div>
+			<P>
+		<div id="indentbox"><font face="verdana" font size="2"><B>Estimation of a Two-component Mixture Model with Applications to Multiple Testing.</B> <BR>
+			
+			<em>Patra, R.  </em> and Sen, B. (2014) <font>
+			<BR>  <EM>Journal of the Royal Statistical Society, Series B</EM> (in press)
+			<BR>[<a href="PapersandDraft/NPMixModel.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/NPMixModel.pdf');">PDF</a>]
+				[<a href="PapersandDraft/Supp_NPMixModel.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/NPMixModel.pdf');">Supplementary Material</a>]
+				[<A href="Code/NPMixModelCode.pdf" onClick="javascript: pageTracker._trackPageview('Code/NPMixModelCode.pdf');">R Code</A>]
+				</div>
+			<P> 
+		<P>
+		<div id="indentbox" > <B> Failure of random materials: A large deviation and computational study</B><BR>
+		 Liu, J., Zhou, X.,<em> Patra, R.</em>, Weinan, E. (2011).
+		<BR>  <EM>Simulation Conference (WSC), Proceedings of the 2011 Winter</EM>, pp. 3779 - 3789
+		<BR>  [<a href="PapersandDraft/ImpSamp.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/ImpSamp.pdf'); ">PDF</a>]</div>
+		<P>
+		
+		<P>
+		<div id="indentbox" ><B> Minimum Hellinger Distance Estimation with Inlier Modification.</B><BR>
+		<em>Patra, R., </em> Mandal, A. and Basu, A. (2008).
+		<BR>  <EM>Sankhya: The Indian Journal of Statistics, Series B</EM>, Vol. 70, No. 2 pp. 310-322  
+		<BR>  [<a href="PapersandDraft/InlierMod.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/InlierMod.pdf'); ">PDF</a>]</div>
+		<P> 
+	<!-- 
+		<P>
+		<div id="indentbox",div class="researchhdr" ><B> Minimum Hellinger Distance Estimation with Inlier Modification.</B><BR>
+		<em>Patra, R., </em> Mandal, A. and Basu, A. (2008).
+		<BR>  <EM>Sankhya: The Indian Journal of Statistics, Series B</EM>, Vol. 70, No. 2 pp. 310-322  
+		<BR>  [<a href="PapersandDraft/InlierMod.pdf" onClick="javascript: pageTracker._trackPageview('PapersandDraft/InlierMod.pdf'); ">PDF</a>]</div>
+		<P> -->
+		
+			
+			
+		<!--div class="researchhdr">
+		 Minimum Hellinger Distance Estimation with Inlier Modification
+		</div>
+		<div class="researchsubhdr">
+		 (joint with Karsten Kohn, AStA Wirtschafts- und Sozialstatistisches Archiv, 2007; 1(3-4), 247-261)
+		</div>
+		<div class="txt">
+		 <a href="http://ideas.repec.org/a/spr/astaws/v1y2007i3p247-261.html">Download</a>
+		</div>
+		<div class="researchhdr">
+		 The Vision of War without Casualties - On the Use of Casualty Aversion in Armament Advertisements
+		</div>
+		<div class="researchsubhdr">
+		 (joint with Niklas Schoernig, Journal of Conflict Resolution, 2006; 50(2), 204-227)
+		</div-->
+
+		
+	   </td>
+	  </tr>
+	 </tbody>	
+	</table>
+
+	</body>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-62141523-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	</html> 

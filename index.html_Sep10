@@ -1,0 +1,27 @@
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>Rohit  Patra</title>
+</head>
+
+
+<frameset rows="120,*" frameborder="0" framespacing="0">
+
+	<frame name="top" src="header.html" frameborder="0" framespacing="0" scrolling="no">
+
+	<frame name="body" src="home.html" frameborder="0" framespacing="0" scrolling="auto">
+
+</frameset>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62141523-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+</html> 

@@ -1,0 +1,86 @@
+/* ---------------------------------------------- */
+/* ---     LSE Econ PhD students template     --- */
+/* --- 	            First Draft               --- */
+/* ---         Alexander C. Lembcke           --- */
+/* ---------------------------------------------- */
+
+html {
+	overflow-y: scroll;
+	overflow-x: auto;
+	height: 100%;
+}
+body {
+	font:12px Arial, sans-serif;
+	background-color: rgb(245,245,245); 
+	padding: 0px;
+	height: 100%;
+}
+
+a {
+	color: rgb(139,125,107);
+	text-decoration:none;
+}
+a:hover{
+	color: rgb(254,0,10);
+	text-decoration: underline;
+}
+
+table {
+	border: 0 0 0 0; 
+	vertical-align: top;
+	text-align: left;
+}
+
+img {
+	margin: 7px 0px 6px 0px;
+	border: 0 0 0 0;
+	vertical-align=top;
+}
+
+.txt {
+	padding: 3px 0px 0px 0px;
+	margin: 0px 0px 0px 6px;
+}
+
+b {
+	text-decoration: bold;
+	color:#003366; 
+}
+
+.smallhdr  {
+	font:13px arial;
+	color: #003366;
+	letter-spacing:.2em;
+	font-weight: bold;
+	margin: 20px 0px 3px 0px;
+}
+
+.researchhdr {
+	font:13px arial;
+	font-weight: bold;
+	letter-spacing: .1em;
+	margin: 7px 0px 3px 4px;
+}
+.researchsubhdr {
+	font:12px arial;
+	letter-spacing: .1em;
+	margin: 0px 0px 3px 5px;
+}
+#headerlinks {
+	color: rgb(139,125,107);
+	font-size: 13px;
+	letter-spacing: .2em;
+}
+
+#logo {
+	font:22px arial;
+	color:#003366; 
+	margin: 35px 0px 0px 0px;
+	letter-spacing:.4em;
+}
+#phd {
+	font:16px arial;
+	color: rgb(0, 0, 0);
+	margin: 10px 0px 1px 0px;
+	letter-spacing:.2em;
+}

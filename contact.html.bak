@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <link rel="stylesheet" href="css/acl.css" type="text/css" />
+  <title>Alexander C. Lembcke</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />  
+  <base target="_parent">
+</head>
+
+<body>
+<table width="630px" align="center">
+ <tbody>
+  <tr valign="top">
+   <td colspan="2">
+    <div class="smallhdr">Office</div>
+	<div class="txt">
+		<a href="http://cep.lse.ac.uk">Centre for Economic Performance</a><br>
+		R4Z13D (Lionel Robbins Building)<br>
+		10 Portugal Street<br>
+		London WC2A 2HD <br>
+	</div>
+	<div class="txt">
+		<a href="http://cep.lse.ac.uk/_new/contact/maps/default.asp">map</a>
+	</div>
+	<div class="smallhdr">Postal</div>
+	<div class="txt">
+		CEP/LSE <br>
+		Houghton Street <br>
+		London WC2A 2AE<br>
+		United Kingdom
+	</div>
+   <td colspan="1" align="center" width="100px">
+	<img src="images/acl235_old.jpg">	
+	<table width="100%">
+	 <tr>
+	  <td align="left">
+		<b> Phone: </b>
+	  </td>
+	  <td align="right">
+		+44 (20) 7955 6685<br>
+	  </td>
+	 </tr>
+	 <tr>
+	  <td align="left">
+	   <b> E-mail: </b>
+	  </td>
+      <td align="right">
+	   <a href="mailto:a.c.lembcke@lse.ac.uk">a.c.lembcke@lse.ac.uk</a>
+	  </td>
+	 </tr>
+	</table>		
+   </td>
+  </tr>
+ </tbody>
+</table>
+</table>
+
+</body>
+
+</html> 

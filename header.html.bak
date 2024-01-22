@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <link rel="stylesheet" href="css/acl.css" type="text/css" />
+  <title>Alexander C. Lembcke</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+
+<body>
+ <table align="center" border="0" cellpadding="0" cellspacing="0" width="730">
+  <tr>
+   <td align="center">
+	<div id="logo">Alexander C. Lembcke</div>
+	<div id="phd"> Job Market Candidate (not yet)</div>
+   </td>
+  </tr>
+  <tr align="center">
+   <td>
+	<div id="headerlinks">
+	 <a target="body" href="home.html">Home</a><img src="images/inv.gif " width="13px">| <img src="images/inv.gif" width="2px">
+	 <a target="blank" href="CV.pdf">CV</a><img src="images/inv.gif " width="13px">| <img src="images/inv.gif" width="2px">
+	 <a target="body" href="research.html">Research</a><img src="images/inv.gif " width="13px">| <img src="images/inv.gif" width="2px">
+	 <a target="body" href="teaching.html">Teaching</a><img src="images/inv.gif " width="13px">| <img src="images/inv.gif" width="2px">
+	 <a target="body" href="contact.html">Contact</a>
+	</div>
+   </td>
+  </tr>
+ </table>
+</body>
+
+</html> 

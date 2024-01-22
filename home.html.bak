@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <link rel="stylesheet" href="css/acl.css" type="text/css" />
+  <title>Alexander C. Lembcke</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />  
+  <base target="_parent">
+</head>
+
+<body>
+<table width="630px" align="center">
+ <tbody>
+  <tr valign="top">
+   <td colspan="2">
+    <div class="smallhdr">Studies</div>
+	<div class="txt">
+		<b>PhD in Economics</b> <br>
+		June 2012 (Expected) <a href="http://econ.lse.ac.uk/">London School of Economics</a><br>
+	</div>
+	<div class="txt">
+		<b>MRes in Economics</b> <br>
+		September 2008 <a href="http://econ.lse.ac.uk/">London School of Economics</a><br>
+	</div>
+	<div class="txt">
+		<b>Diplom in Economics</b> <br>
+		March 2006 <a href="http://www.wiwi.uni-frankfurt.de/">J. W. Goethe University (Frankfurt)</a><br>
+	</div>
+    <div class="smallhdr">Research</div>
+    <div class="txt">
+		<b>Main Fields</b> <br>
+		Labor Economics, Applied Econometrics
+	</div>
+	<div class="txt">
+		<b>Secondary Fields</b> <br>
+		Personnel Economics, Health Economics 
+	</div>
+	<div class="smallhdr">Job Market Paper</div>
+    <div class="txt">
+	 <b>Title</b><br>
+	</div>
+	<div class="txt">
+	 <a href="CV.pdf">Download</a>
+	</div>
+    <table width="100%" cellpadding="0" cellspacing="0">
+		<tr colspan="2" border="0">
+		<div class="smallhdr">References</div>
+		</tr>
+		<tr border="0">
+			<td>
+				<div class="txt">
+				<a href="mailto:S.Pischke@lse.ac.uk">Prof. Steve Pischke</a>
+				</div>
+			</td>
+			<td>
+				<div class="txt">
+				(Advisor, LSE)
+				</div>
+			</td>
+		</tr>
+		<tr border="0">
+			<td>
+				<div class="txt">
+				<a href="mailto:A.Manning@lse.ac.uk">Prof. Alan Manning</a>
+				</div>
+			</td>
+			<td>
+				<div class="txt">
+				(Advisor, LSE)
+				</div>
+			</td>
+		</tr>
+    </table>
+   <td colspan="1" align="center" width="100px">
+	<img src="images/acl235.jpg">	
+	<table width="100%">
+	 <tr>
+	  <td align="left">
+		<b> Phone: </b>
+	  </td>
+	  <td align="right">
+		+44 (20) 7955 6685<br>
+	  </td>
+	 </tr>
+	 <tr>
+	  <td align="left">
+	   <b> E-mail: </b>
+	  </td>
+      <td align="right">
+	   <a href="mailto:a.c.lembcke@lse.ac.uk">a.c.lembcke@lse.ac.uk</a>
+	  </td>
+	 </tr>
+	</table>		
+   </td>
+  </tr>
+ </tbody>
+</table>
+</table>
+
+</body>
+
+</html> 
